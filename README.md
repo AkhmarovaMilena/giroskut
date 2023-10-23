@@ -1,1 +1,1 @@
-# giroskut
+# giroskuter
